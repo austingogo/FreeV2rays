@@ -4,8 +4,7 @@ FreeV2rays
 通过爬取免费v2ray链接分享，自动生成订阅链接
 
 windows使用方法：
-下载release中的exe文件,
-点开始-》运行-》输入"cmd"=>"cd 到下载目录"=》输入"freev2rays.exe"有运行光标后就不用管
+下载release中的exe文件,双击运行即可（需要同意访问网络）
 
 使用v2ray客户端推荐
 https://github.com/v2fly/v2ray-core/releases
